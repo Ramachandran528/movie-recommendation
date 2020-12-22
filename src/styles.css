@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  width: 70%;
+  margin: 0 auto;
+  text-transform: capitalize;
+}
+.container {
+  width: 80%;
+  border: 2px solid lightgrey;
+  padding: 0.2rem 1rem;
+  margin: 1rem 0px;
+  border-radius: 5px;
+}
